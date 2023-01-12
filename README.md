@@ -35,4 +35,18 @@ Overall, the key to effective data visualization is to choose the right type of 
   
   
   
+ # Heart Disease EDA - Age (DistPlot)
+
+In seaborn, a distplot is a function that plots a histogram, kernel density estimate (KDE) plot, and/or rug plot on a single figure. It is used to visualize the distribution of a single continuous variable.
+
+
+  ![Screenshot (28)](https://user-images.githubusercontent.com/107593968/212028357-d9576e8d-f15a-4ecc-a827-af3a87618a67.png)
+  
+  
+  So after doing the visualization we can infer that minimum age is around 30 and maximum age is around 80. Maximum of the data falls within the range of 40 to 70.
+
+  
+ # Link for Dataset
+ https://raw.githubusercontent.com/AshishJangra27/Data-Analysis-with-Python-GFG/main/19.%20Heart%20Disease%20EDA%20-%20Correlation%20-%20(JointPlot)/heart.csv
+ 
  
